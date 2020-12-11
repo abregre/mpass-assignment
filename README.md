@@ -18,4 +18,5 @@
 <li>Use the intergrated terminal or cd into the folder with another cli tool</li>
 <li>Use <code>npm install</code> to install all the required dependencies</li>
 <li>Within your cli you can start everything with the command <code>npm run start</code></li>
+  <li>Now you can find the application running on your browser if you navigate to <code>http://localhost:8080/</code></li>
 </ol>
