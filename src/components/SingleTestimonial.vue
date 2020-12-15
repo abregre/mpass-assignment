@@ -42,9 +42,9 @@ export default {
   position: relative;
   padding: 1.5rem;
   border-radius: 10px;
- -webkit-box-shadow: 12px 11px 41px 9px rgba(207,207,207,0.59);
--moz-box-shadow: 12px 11px 41px 9px rgba(207,207,207,0.59);
-box-shadow: 12px 11px 41px 9px rgba(207,207,207,0.59);
+ -webkit-box-shadow: 12px 11px 41px 9px hsla(0, 0%, 81%, 0.59);
+-moz-box-shadow: 12px 11px 41px 9px hsla(0, 0%, 81%, 0.59);
+box-shadow: 12px 11px 41px 9px hsla(0, 0%, 81%, 0.59);
 }
 
 .card-header {
